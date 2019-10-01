@@ -6,6 +6,7 @@ layout: page
 
 Through the lessons in this unit you will create a simple 3D driving simulator and learn to:
 
+* Start a new Unity project
 * Navigate 3D space and the Unity Editor comfortably
 * Add and manipulate objects in a scene to position them where you want, including the camera
 * Configure the layout of Unity Editor to suit your needs
