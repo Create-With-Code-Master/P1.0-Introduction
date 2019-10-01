@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="assets/images/screen-capture.png" align="right" width="50%">
+<img class="overview-image" src="assets/images/screen-capture.png">
 
 Through the lessons in this unit you will create a simple 3D driving simulator and learn to:
 
