@@ -4,8 +4,8 @@ layout: page
 
 <img class="overview-image" src="assets/images/screen-capture.png">
 
-Through the lessons in this unit you will create a simple 3D driving simulator and learn to:
-
+We will start off learning about Unity by building a simple prototype of a driving simulator, starting from a set of **assets** that we will download from Github. Through completing this unit you will develop the skills to:
+* Work with repositories on GitHub
 * Start a new Unity project
 * Navigate 3D space and the Unity Editor comfortably
 * Add and manipulate objects in a scene to position them where you want, including the camera
